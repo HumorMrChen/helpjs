@@ -1,0 +1,22 @@
+{
+  "name": "helpjs",
+  "version": "1.0.0",
+  "description": "A MVVM frontend frame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumorMrChen/helpjs.git"
+  },
+  "keywords": [
+    "amin"
+  ],
+  "author": "chen ming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumorMrChen/helpjs/issues"
+  },
+  "homepage": "https://github.com/HumorMrChen/helpjs#readme"
+}
